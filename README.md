@@ -1,4 +1,7 @@
-### Hi there 👋
+### A General Game Programmer
+---
+- 🔭 I'm working on [Studio Zoo](https://github.com/studiozoo).
+- 🏭 I'm work with [Unity3d](https://unity3d.com).
 
 <!--
 **rumaniel/rumaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
