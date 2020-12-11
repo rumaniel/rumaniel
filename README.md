@@ -2,9 +2,10 @@
 
 ### A General Game Programmer
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=rumaniel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
   <a href="https://github.com/rumaniel"><div><img align="right" src="https://github-readme-stats.vercel.app/api?username=rumaniel&show_icons=true&count_private=true" alt="Anurag's github stats"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumaniel&layout=compact" /></div></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rumaniel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - <a href="https://stackoverflow.com/users/2655055/hyojin-kim"><img src="https://stackoverflow.com/users/flair/2655055.png?theme=clean" width="208" height="58" alt="profile for HyoJin KIM at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for HyoJin KIM at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 - 🔭 I'm working on [Studio Zoo](https://github.com/studiozoo).
