@@ -10,6 +10,9 @@
 - 🏭 I'm work with [Unity3d](https://unity3d.com).
 - 📫 How to reach me: [Facebook](https://facebook.com/rumaniel) [Email](mailto:rumaniel@hotmail.com)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rumaniel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **rumaniel/rumaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
