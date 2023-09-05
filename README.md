@@ -8,7 +8,7 @@
   </div></a>
 
 - <a href="https://stackoverflow.com/users/2655055/hyojin-kim"><img src="https://stackoverflow.com/users/flair/2655055.png?theme=dark" width="208" height="58" alt="profile for HyoJin KIM at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for HyoJin KIM at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-- 🔭 I'm working on [Studio Zoo](https://github.com/studiozoo).
+- 🔭 I'm working on [SZ Code Lab Inc.](https://github.com/szcodelab).
 - 🏭 I'm work with [Unity3d](https://unity3d.com).
 
 <!--
